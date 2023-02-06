@@ -47,3 +47,4 @@ while True:
         break
     
 print('Jogo finalizado')
+input('Você se divertiu? ')
